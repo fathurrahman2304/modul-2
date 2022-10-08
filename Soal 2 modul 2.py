@@ -1,6 +1,3 @@
-# NAMA : FATHUR RAHMAN
-# NIM : 065002200013
-# JURUSAN : SISTEM INFORMASI
 import math as q
 print("\n--MENGHITUNG JARAK ANTARA DUA TITIK DIBUMI--")
 x1 = float(input("\nMasukkan lattitude kota pertama: "))
