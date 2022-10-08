@@ -1,6 +1,3 @@
-
-# Nama : Fathur Rahman
-# NIM : 065002200013
 # display awal
 import math
 print("\n===SILAHKAN MASUKKAN NILAI===")
